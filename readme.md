@@ -9,6 +9,4 @@
 
 <br><hr><br>
 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=energelpen&" />
-
 <img align="left" src="https://komarev.com/ghpvc/?username=energelpen&label=Profile%20views&color=0e75b6&style=flat" />
