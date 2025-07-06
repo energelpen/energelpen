@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm ASK</h1>
 <h3 align="center">A passionate computer engineer from Singapore</h3>
+<h3 align="center">The unexamined life is not worth living</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=energelpen&label=Profile%20views&color=0e75b6&style=flat" alt="energelpen" /> </p>
 
