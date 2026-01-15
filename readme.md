@@ -29,7 +29,7 @@ My GitHub showcases my projects, experiments, and contributions. You can explore
 I’m always open to collaborations, discussions, and sharing ideas. Feel free to explore my repositories or reach out to connect.  
 
 ---
-> "Stars like dust encircle me,  
+> "The stars, like dust, encircle me,  
 > In living mists of light;  
 > And all of space I see  
 > In one vast burst of sight."
