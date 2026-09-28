@@ -1,8 +1,6 @@
-# Hey 👋, I'm EnergelPen
-
-### A passionate Computer Engineer from Singapore 🇸🇬
-
-> *"The unexamined life is not worth living."*
+<h1 align="center">Hey 👋, I'm ASK</h1>
+<h2 align="center">A passionate Computer Engineer from Singapore 🇸🇬</h2>
+<h3 align="center"><i>"The unexamined life is not worth living."</i></h3>
 
 ---
 
@@ -30,15 +28,35 @@ My GitHub has the projects, experiments, and half-finished ideas. Have a look [h
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
-![ASK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=energelpen&show_icons=true&hide_border=true&theme=transparent)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=energelpen&show_icons=true&hide_border=true&theme=transparent" alt="ASK's GitHub Stats" />
+</p>
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=energelpen&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=energelpen&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="ASK's Top Languages" />
+</p>
 
-> Language statistics are calculated from my public GitHub repositories and do not necessarily represent proficiency.
+> Language statistics are calculated from my GitHub repositories and do not necessarily represent overall proficiency.
+
+---
+
+## Amateur Radio
+
+Licensed amateur radio operator interested in:
+
+- Antennas & propagation
+- Software-defined radio
+- Digital communications
+- RF experimentation
+- Homebrew electronics
+
+**FCC General Class / IMDA Restricted Class**
+
+**73.**
 
 ---
 
@@ -46,11 +64,21 @@ My GitHub has the projects, experiments, and half-finished ideas. Have a look [h
 
 Always up for a good conversation — code, robots, antennas, or otherwise.
 
-Repos are open, inbox is open. **73.**
+Repos are open, inbox is open.
+
+<p align="center">
+  <a href="https://github.com/energelpen">
+    <img src="https://img.shields.io/badge/GitHub-energelpen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-> *"The stars, like dust, encircle me,*  
-> *In living mists of light;*  
-> *And all of space I see*  
-> *In one vast burst of sight."*
+<p align="center">
+  <i>
+    "The stars, like dust, encircle me,<br>
+    In living mists of light;<br>
+    And all of space I see<br>
+    In one vast burst of sight."
+  </i>
+</p>
